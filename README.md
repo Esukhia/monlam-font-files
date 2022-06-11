@@ -1,6 +1,4 @@
-# monlam-fonts
-
-Monlam font files
+# monlam-font-files
 
 ## Monlam Fonts 3
 
